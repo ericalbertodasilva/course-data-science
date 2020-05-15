@@ -47,4 +47,20 @@ _Conceitos:_
 * teste de hipótese
 * t de Student
 
+### Regressões
+* Linear
+* Multivariável
+* Lógica
+
+_Conceitos_
+* Correlação
+* Previsão
+* Resíduos
+* Outliers
+* Extrapolação
+* Colinearidade
+* Parcimônia
+
+
+
  
