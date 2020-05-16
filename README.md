@@ -61,6 +61,14 @@ _Conceitos_
 * Colinearidade
 * Parcimônia
 
+### Análise de Dados Exploratória
+
+* Distribuição de Possion
+* Qui Quadrado
+* Anova
+* Outliers
+* Teste Tukey
+
 
 
  
